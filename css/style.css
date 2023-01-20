@@ -1,7 +1,53 @@
-/* resetando a página do html. O " * " pega todo o o html */
+/* resetando as bordas da página do html. O " * " pega todo o o html */
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
     font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container{
+    max-width: 1080; /*tamanho da faixa*/
+    margin: 0 auto;
+    display: flex; /**/
+    align-items: center; /*alinhamento dos itens com relação a eles*/
+    justify-content: center; /*alinhamento ao centro do max-width*/
+}
+
+header{
+    background-color: black;
+    width: 100%; /*porcetagem da barra que ficará em preto*/ 
+    padding: 5px; /*tamanho da altura */
+}
+
+/*Determinar cada seção do Header*/
+
+.logo, .sociais{
+    width: 25%; /*posição do logo*/
+}
+
+.logo img{
+
+    width: 100px;
+}
+
+.menu{
+    width: 50%;
+}
+
+.menu nav,a{
+    color:rgb(255, 255, 255); /*cor da fonte do "home, blog, contato*/
+    text-decoration: none; /*retira do sublinhado*/
+    padding-right: 50px; /*afastar um do outro */
+    font-size: 18px;
+}
+
+
+.sociais button{
+    width: 30px;
+    height: 30px;
+}
+
+.sociais button i{
+    font-size: 20px;
 }

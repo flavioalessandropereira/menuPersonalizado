@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+
 /* resetando as bordas da página do html. O " * " pega todo o o html */
 *{
     margin: 0px;
@@ -81,7 +85,9 @@ section{
     height:140px;
     background-position: center;
     background-repeat: no-repeat;
+    
     background-size: cover; /*cubra todo o espaço da section*/
+
 
 
     
@@ -99,9 +105,19 @@ section:nth-of-type(3){
     height: 300px;
     background-size: cover;
     background-image: linear-gradient(45deg, rgb(90, 88, 88), rgb(255, 241, 241));
+
+    font-family: 'Roboto', sans-serif;
+
    
 }
 
 section h1{
     color: white
+}
+
+.box{
+
+    height: 100vh;
+    font-size: 20px;
+    text-align: center;
 }

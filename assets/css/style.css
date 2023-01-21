@@ -56,7 +56,7 @@ header{
     position: absolute;
     top:30px;
     left: 0;
-    transition: width 0.5s; /*trasição da barra vai levar 0.5s*/
+    transition: width 0.5s; /*transição da barra vai levar 0.5s*/
 }
 
 .menu nav a:hover::after{/*animação da barra de menu*/
@@ -87,11 +87,8 @@ section{
     background-repeat: no-repeat;
     
     background-size: cover; /*cubra todo o espaço da section*/
-
-
-
-    
 }
+
 section:nth-of-type(2){
 
     height: 50px;
@@ -115,9 +112,35 @@ section h1{
     color: white
 }
 
-.box{
+.navbar{
 
     height: 100vh;
     font-size: 20px;
     text-align: center;
+    position:absolute;
+    display: flex;
+    justify-content: center;
+
+
 }
+
+.box{
+
+    width: 100px;
+    height: 60px;
+    padding: 5px;
+    margin: 0.6rem;
+
+    /*overflow: hidden;*/
+    cursor: pointer;
+    transition: all 4s ease;
+}
+
+.box:hover{
+    width: 200px;
+    background: #c32aa3;
+    border-radius: 35px;
+    color: #fff;
+    box-shadow: 0 0 50px #c32aa3;
+}
+

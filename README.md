@@ -12,4 +12,4 @@ Menu personalizado, quando o usuário direciona o mouse uma barra de personaliza
 Neste projeto foi utilizado o efeito animado.
 
 ### Efeito Animado
-![IMAGE ALT TEXT HERE](/assets/img/menu.gif)
+![menu](https://user-images.githubusercontent.com/70247557/213953603-9f42057e-1e0e-4c73-a518-d347d76c42d9.gif)

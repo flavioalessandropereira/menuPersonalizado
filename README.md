@@ -1,4 +1,14 @@
 # menuPersonalizado
-Menu personalizado usando HTML e CSS.
+Menu personalizado, quando o usuário direciona o mouse uma barra de personalizada é ativada "animada".
 
->Status: Projeto em contstrução ⚠️
+
+## Tecnologias utilizadas:
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto
+
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) :  linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML. 
+
+
+## Diferencial
+Neste projeto foi utilizado o efeito animado.
+
+### Assistir ao vídeo de efeito

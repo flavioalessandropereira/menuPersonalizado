@@ -11,4 +11,5 @@ Menu personalizado, quando o usuário direciona o mouse uma barra de personaliza
 ## Diferencial
 Neste projeto foi utilizado o efeito animado.
 
-### Assistir ao vídeo de efeito
+### Efeito Animado
+![IMAGE ALT TEXT HERE](/assets/img/menu.gif)

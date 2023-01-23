@@ -60,7 +60,7 @@ header{
 }
 
 .menu nav a:hover::after{/*animação da barra de menu*/
-    width: 40px;
+    width: 50px; /*tamanho da barra de transição*/
 }  
 
 .sociais button{
@@ -79,38 +79,4 @@ header{
     
 }
 
-/*section global*/
-section{
-    width:100%;
-    height:140px;
-    background-position: center;
-    background-repeat: no-repeat;
-    
-    background-size: cover; /*cubra todo o espaço da section*/
-    
-    
-}
 
-section:nth-of-type(2){
-
-    height: 30px;
-    background-size: cover;
-    background-color: rgb(255, 255, 255);
-   
-}
-
-section:nth-of-type(3){
-    height: 300px;
-    background-image: linear-gradient(45deg, rgb(90, 88, 88), rgb(255, 241, 241));
-    font-family: 'Roboto', sans-serif;
-}
-
-section h1{
-    color: white;
-    display: flex;
-    justify-content: center;
-}
-
-.box {
-
-}

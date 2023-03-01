@@ -8,7 +8,7 @@ Menu personalizado, quando o usuário direciona o mouse uma barra de personaliza
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) :  linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML. 
 
 
-## Diferencial
+## Atulizado/Diferencial
 Neste projeto foi utilizado o efeito animado.
 
 ### Efeito Animado

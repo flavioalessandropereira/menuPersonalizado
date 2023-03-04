@@ -1,5 +1,5 @@
 # menuPersonalizado
-Menu personalizado, quando o usuário direciona o mouse uma barra de personalizada é ativada "animada".
+Menu personalizado, quando o usuário direciona o mouse, uma barra de personalizada é ativada "animada".
 
 
 ## Tecnologias utilizadas:
@@ -8,7 +8,7 @@ Menu personalizado, quando o usuário direciona o mouse uma barra de personaliza
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) :  linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML. 
 
 
-## Atulizado/Diferencial
+## Diferencial
 Neste projeto foi utilizado o efeito animado.
 
 ### Efeito Animado

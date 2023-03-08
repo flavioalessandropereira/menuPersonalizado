@@ -1,5 +1,5 @@
 # menuPersonalizado
-Menu personalizado, quando o usuário direciona o mouse, uma barra de personalizada é ativada "animada".
+Menu personalizado, quando o usuário posiciona o mouse, uma barra de personalizada é ativada "animada".
 
 
 ## Tecnologias utilizadas:

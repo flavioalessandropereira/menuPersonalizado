@@ -5,7 +5,7 @@ Menu personalizado, quando o usuário posiciona o mouse, uma barra de personaliz
 ## Tecnologias utilizadas:
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): linguagem de Marcação de Hipertexto
 
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS):  linguagem Cascading Style Sheet, usado para estilizar elementos escritos na marcação do HTML. 
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Cascading Style Sheet, usado para estilizar elementos escritos na marcação do HTML. 
 
 
 ## Diferencial
